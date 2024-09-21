@@ -27,7 +27,7 @@ export const SignUpCard = ({ setState }: SignUpCardProps) => {
       <CardHeader className="pt-0 px-0">
         <CardTitle>Sign Up to Continue</CardTitle>
         <CardDescription>
-          Use your email or other Service to Continue
+          Enter Your Email and Password or other Service to Continue
         </CardDescription>
         <CardContent className="space-y-5 px-0 pb-0">
           <form className="space-y-2.5">
